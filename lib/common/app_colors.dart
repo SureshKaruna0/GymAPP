@@ -1,0 +1,67 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  static const Color lightBlue = Color(0xFFe8fafc);
+  static const Color lightBlue2 = Color(0xFF3B56A7);
+  static const Color lightBlue3 = Color(0xff6750a4);
+  static const Color lightBlue4 = Color(0xffdfecf6);
+  static const Color lightBlue5 = Color(0xff7C87AA);
+  static const Color lightBrown = Color(0xFFfff4de);
+  static const Color orange = Color(0xFFFFD600);
+  static const Color orange2 = Color(0xffFF5C00);
+  static const Color darkBlue = Color(0xFF25279F);
+  static const Color darkBlue2 = Color(0xFF21238F);
+  static const Color darkBlue3 = Color(0XFF253058);
+  static const Color darkBlue4 = Color(0xff2F4078);
+  static const Color black = Color(0xFF000000);
+  static const Color black2 = Color(0xFF0A0A0A);
+  static const Color black3 = Color(0xFF1C1C1C);
+  static const Color black4 = Color(0x4D000000);
+  static const Color black5 = Color(0xff272727);
+  static const Color black6 = Color(0xff090909);
+  static const Color black7 = Color(0xff282828);
+  static const Color black8 = Color(0xff414042);
+  static const Color white = Color(0xFFFFFFFF);
+  static const Color textcolors = Color(0xFF0A0A0A);
+  static const Color grey = Color(0xFF818484);
+  static const Color darkGrey = Color(0xFF555555);
+  static const Color lightGrey = Color(0x33000000);
+  static const Color lightGrey2 = Color(0xff6E6E6E);
+  static const Color lightGrey3 = Color(0xffA0A7B1);
+  static const Color lightGrey4 = Color(0xFFDDDDDD);
+  static const Color lightGrey5 = Color(0xFF545454);
+  static const Color lightGrey6 = Color(0xFF7F7D8C);
+  static const Color middleGrey = Color(0xff5C6672);
+  static const Color blue = Color.fromARGB(255, 169, 233, 236);
+  static const Color labeltext = Color(0xFF4E4A4A);
+  static const Color textFieldUnderLine = Color(0xFF0B849D);
+  static const Color red = Colors.red;
+  static const Color red2 = Color(0xffFF0C0C);
+  static const Color green = Colors.green;
+  static const Color trans = Colors.transparent;
+  static const Color yellowDark = Color(0xff736000);
+  static const Color shadeblue = Color(0xff3B56A7);
+  static const Color lightPink = Color(0xffFFE6FF);
+  static const Color appbarred = Color(0xff980001);
+  static const Color lightGreen = Color(0x4DA2D54E);
+
+  //  version 2
+  static const Color darkBrown = Color(0xff5C151A);
+  static const Color lightGrey7 = Color(0xff737373);
+  static const Color orignalblue = Color(0xff3B56A7);
+  static const Color lightGrey8 = Color(0xff494949);
+  static const Color lightGrey9 = Color(0xffACACAC);
+  static const Color lightGrey10 = Color(0xff777777);
+  static const Color lightGrey11 = Color(0xffF1F0F0);
+  static const Color annualPlan = Color(0x996B8E23);
+  static const Color monthlyPlan = Color(0x9951A8BC);
+  static const Color cardback = Color(0xffFCF8F8);
+  static const Color lightBrown2 = Color(0xffF9C295);
+  static const Color red3 = Color(0xffF42C2C);
+  static const Color black9 = Color(0xff3F3C3C);
+  static const Color orange3 = Color(0xffF58547);
+  static const Color lightBlue6 = Color(0xff3F55A0);
+  static const Color lightGrey12 = Color(0xff505859);
+  static const Color black10 = Color(0xff111111);
+  static const Color grey2 = Color(0xffF3F3F3);
+}
